@@ -1,4 +1,9 @@
-		*{
+@font-face {
+    font-family: "Google Sans";
+    src: url("GoogleSans-VariableFont_GRAD%2Copsz%2Cwght.ttf") format("truetype-variations");
+}
+
+* {
  margin : 0;
  padding: 0;
  box-sizing: border-box;
@@ -16,6 +21,7 @@ h1 {
 
 body {
     margin: 20px;
+    font-family: "Google Sans", sans-serif;
 }
 
 details {
