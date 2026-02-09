@@ -26,9 +26,7 @@ details {
 
 img {
     width: 150px;
-    /*border: 1px black solid;*/
-    /*vertical-align: top;*/
-
+    vertical-align: bottom;
 
 }
 
@@ -50,7 +48,6 @@ summary {
 
 .left {
   text-align: left;
-
   margin-left: 20px;
 }
 
