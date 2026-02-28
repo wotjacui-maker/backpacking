@@ -47,7 +47,7 @@ summary {
   appearance: none;
     padding: 0;      /* 브라우저 기본 padding 제거 */
   display: block;  /* block으로 만들어서 margin-left가 확실히 먹게 */
-  font-size: 10pt;
+  font-size: 8pt;
   line-height: 20pt;
 
 }
